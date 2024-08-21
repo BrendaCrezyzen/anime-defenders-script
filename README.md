@@ -1,1 +1,2 @@
 # anime-defenders-script
+.
